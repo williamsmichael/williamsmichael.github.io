@@ -1,6 +1,6 @@
-# mple2
+# Portolio
 
-This is a working version 2 of my portfolio website [MPLE](http://mpleconsulting.com/).
+Portfolio made in Oregon
 
 ### Built with
 
