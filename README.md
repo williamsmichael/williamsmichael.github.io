@@ -1,7 +1,3 @@
-# Portolio
+# Portolio made in Oregon
 
-Portfolio made in Oregon
-
-### Built with
-
-HTML, CSS, JavaScript
+### Built with HTML, CSS, JavaScript
