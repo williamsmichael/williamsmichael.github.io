@@ -1,0 +1,181 @@
+body {
+	background-color: #F8F8F8;
+}
+header {
+	margin-top: 75px;
+	text-align: center;
+	color: #777;
+}
+header + div {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	color: #777;
+}
+header + div p {
+	margin-bottom: 20px;
+}
+.selected {
+	text-decoration: underline;
+	color: #337AB6;
+	font-weight: 700;
+}
+.congrats {
+	background-color: #5CB85C;
+	color: #fff;
+	padding: 2px 7px;
+	border-radius: 2px;
+}
+.gameOver {
+	background-color: #D9534F;
+	color: #fff;
+	padding: 2px 7px;
+	border-radius: 2px;
+}
+.glyphicon-arrow-up, .glyphicon-arrow-down {
+	color: #5BC0DE;
+	font-size: 1.5em;
+	vertical-align: bottom;
+}
+.gray1 {
+	background-color: #888;
+}
+.gray2 {
+	background-color: #444;
+}
+.green1 {
+	background-color: #009966;
+}
+.green2 {
+	background-color: #66CC99;
+}
+.red1 {
+	background-color: #E64A45;
+}
+.blue1 {
+	background-color: #66CCCC;
+}
+.blue2 {
+	background-color: #669999;
+}
+.blue3 {
+	background-color: #4DB3B3;
+}
+.purple {
+	background-color: #6666CC;
+}
+.yellow {
+	background-color: #FFCC66;
+}
+.orange {
+	background-color: #FF9900;
+}
+.circle, .square {
+	height: 75px;
+	width: 75px;
+	border: 5px solid #aaa;
+	margin: 5px;
+	display: inline-block;
+}
+.circle {
+	border-radius: 50%;
+}
+#buttonBegin, #buttonRestart, #inputField {
+	margin-top: 25px;
+	border: 3px solid #bbb;
+	border-radius: 5px;
+	background-color: #bbb;
+	display: inline-block;
+	font-size: 1.5em;
+	width: 200px;
+	text-align: center;
+}
+#inputField {
+	padding: 10px 20px;
+}
+#buttonBegin:hover, #buttonRestart:hover {
+	background-color: #fff;
+	color: #bbb;
+	border: 3px solid #bbb;
+	transition: .3s;
+}
+#buttonBegin a, #buttonRestart a {
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+	padding: 10px 20px;
+	width: 100%;
+	height: 100%;
+}
+#buttonBegin a:hover, #buttonRestart a:hover {
+	color: #bbb;
+}
+#inputField {
+	text-align: center;
+	background-color: #eee;
+	display: none;
+	color: #333;
+}
+#inputField:focus {
+  outline: none;
+	background-color: inherit;
+	border: 3px solid #bbb;
+	placeholder: none;
+}
+::-webkit-input-placeholder {
+   color: #ccc;
+}
+:-moz-placeholder { /* Firefox 18- */
+   color: #ccc;
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #ccc;
+}
+:-ms-input-placeholder {
+   color: #ccc;
+}
+#buttonRestart {
+	display: none;
+}
+#gameStatus {
+	margin-top: 25px;
+	line-height: 2em;
+}
+footer {
+	margin-top: 80px;
+	text-align: center;
+}
+
+/* media queries */
+@media only screen and (max-width: 500px) {
+	header {
+		margin-top: 60px;
+	}
+	header + div {
+		width: 90%;
+	}
+	h1 {
+		font-size: 1.50em;
+	}
+	.circle, .square {
+		height: 30px;
+		width: 30px;
+		border: 3px solid #aaa;	
+		margin: 3px;
+	}
+	#buttonBegin, #buttonRestart, #inputField {
+		margin-top: 20px;
+		font-size: 1.25em;
+		width: 150px;
+	}
+	.glyphicon-arrow-up, .glyphicon-arrow-down {
+		color: #5BC0DE;
+		font-size: 1.25em;
+	}
+	footer {
+		padding: 15px;
+		margin: 20px;
+		font-size: 0.75em;
+	}
+}
+
