@@ -1,0 +1,86 @@
+/* custom add ons to the landing landing-page
+unless stated in its own separate stylesheet */
+
+/* ------------------------------------------------------------------ribbon */
+.corner-ribbon {
+	width: 250px;
+	background: #e43;
+	position: absolute;
+	top: 25px;
+	left: -50px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	color: #eee;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	z-index: 1;
+}
+/* Custom styles for the default ribbon */
+.corner-ribbon.sticky {
+ 	position: fixed;
+}
+.corner-ribbon.shadow {
+ 	box-shadow: 0 0 3px rgba(0,0,0,.3);
+}
+.corner-ribbon.top-right{
+	top: 91px;
+	right: -60px;
+	left: auto;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+}
+.corner-ribbon.green {
+    background: #4BAE4F;
+}
+.corner-ribbon.blue {
+	background: #3DB6D1;
+}
+.corner-ribbon.red {
+	background: #D9534F;
+}
+
+/* ------------------------------------------------------------------slider */
+.vertical-slider {
+	margin-top: 40px;
+	margin-bottom: 5px;
+	color: #FEC006;
+}
+
+/* -----------------------------------------------animated x top navigation */
+/* http://stackoverflow.com/questions/37758887/animated-x-icon-for-bootstrap-toggle */
+.navbar-toggle {
+	border: none;
+	background: transparent !important;
+}
+.navbar-toggle:hover {
+	background: transparent !important;
+}
+.navbar-toggle .icon-bar {
+	width: 22px;
+	transition: all 0.2s;
+}
+.navbar-toggle .top-bar {
+	transform: rotate(45deg);
+	transform-origin: 10% 10%;
+}
+.navbar-toggle .middle-bar {
+	opacity: 0;
+}
+.navbar-toggle .bottom-bar {
+	transform: rotate(-45deg);
+	transform-origin: 10% 90%;
+}
+.navbar-toggle.collapsed .top-bar {
+	transform: rotate(0);
+}
+.navbar-toggle.collapsed .middle-bar {
+	opacity: 1;
+}
+.navbar-toggle.collapsed .bottom-bar {
+	transform: rotate(0);
+}
+
+
+
+
