@@ -1,0 +1,64 @@
+[1mdiff --git a/bin/RESUME_michaelWilliams.pdf b/bin/RESUME_michaelWilliams.pdf[m
+[1mindex b2df868..eeff415 100644[m
+[1m--- a/bin/RESUME_michaelWilliams.pdf[m
+[1m+++ b/bin/RESUME_michaelWilliams.pdf[m
+[36m@@ -1,42 +1,41 @@[m
+ MICHAEL WILLIAMS[m
+ [m
+[31m-https://linkedin.com/in/williamsmichael1                                                  Portland Oregon[m
+[31m-https://github.com/williamsmichael                                                           503-720-6114[m
+[32m+[m[32mhttps://linkedin.com/in/williamsmichael1                                          Portland Oregon[m
+[32m+[m[32mhttps://github.com/williamsmichael[m
+ https://williamsmichael.github.io/[m
+[31m-                                                                  michaelwilliams.contact@gmail.com[m
+ [m
+                                           Technical Competencies[m
+ [m
+[31m- Data Analysis                Business Analysis                            SQL, MySQL, Progress ABL[m
+[31m- Visualizations, Dashboards   Requirements Gathering                       Python, Django, Flask[m
+[31m- Agile Development            Web Development                              Responsive Design[m
+[31m- Atlassian Suite              HTML, CSS                                    JavaScript, jQuery[m
+[31m- Research                     Bootstrap                                    Sublime, VS Code[m
+[31m- MS Excel, VBA                git, Github                                  Java, Spring Boot[m
+[32m+[m[32m▪ Web Development       ▪ Data Analysis                           ▪ Business Analysis[m
+[32m+[m[32m▪ Agile Development     ▪ Visualizations, Dashboards              ▪ SQL, MySQL, Progress ABL[m
+[32m+[m[32m▪ Problem Solving       ▪ Testing, Peer Reviews                   ▪ Python, Django, Flask[m
+[32m+[m[32m▪ Atlassian Suite, TFS  ▪ HTML, CSS                               ▪ Responsive Design[m
+[32m+[m[32m▪ MS Excel, VBA         ▪ git, Github                             ▪ JavaScript, jQuery[m
+[32m+[m[32m▪ Axiom                 ▪ Bootstrap                               ▪ Sublime, VS Code[m
+ [m
+[31m-                                          Projects[m
+[32m+[m[32m                                    Projects[m
+ [m
+ Blogz http://mple.pythonanywhere.com/                                             07/2017 – Present[m
+[31m-     Responsive Flask App - authentication, personal account, multiple views     08/2016 – Present[m
+[32m+[m[32m    ▪ Responsive Flask App - authentication, personal account, multiple views     08/2016 – Present[m
+                                                                                   10/2015 – 03/2016[m
+ RightGlass https://glaxis.com/apps/rightglass                                     07/2015 – 11/2015[m
+[31m-     Identify exact replacement auto glass for supported vehicles                04/2014 – 05/2015[m
+[32m+[m[32m    ▪ Identify exact replacement auto glass for supported vehicles                04/2014 – 05/2015[m
+                                                                                   07/2012 – 03/2015[m
+ Networker Web Application http://networkersayshi.herokuapp.com[m
+[31m-     Responsive web application for constructing private groups                  01/2012 – 07/2012[m
+[32m+[m[32m    ▪ Responsive web application for constructing private groups                  01/2012 – 07/2012[m
+ [m
+ Accelerator Portfolio https://accelerator-portfolio.herokuapp.com/[m
+[31m-     Compilation of projects including paired-programming and code reviews[m
+[32m+[m[32m    ▪ Compilation of projects including paired-programming and code reviews[m
+ [m
+ Global Portal Website https://goo.gl/pws2RE[m
+[31m-     Volunteer project lead for Swedish expat organization[m
+[32m+[m[32m    ▪ Volunteer project lead for Swedish expat organization[m
+ [m
+ Application Development with VBA Excel[m
+[31m-     Developed civil engineering calculators outputting reports and projections[m
+[31m-     Developed business CMS with dashboard tracking customers and invoices[m
+[32m+[m[32m    ▪ Developed civil engineering calculators outputting reports and projections[m
+[32m+[m[32m    ▪ Developed business CMS with dashboard tracking customers and invoices[m
+ [m
+ 3D Modeling[m
+[31m-     Worked remotely with civil engineering clients developing 3D renders[m
+[32m+[m[32m    ▪ Worked remotely with civil engineering clients developing 3D renders[m
+ [m
+                                           Professional Profile[m
+ [m
